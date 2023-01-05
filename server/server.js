@@ -19,7 +19,7 @@ const configuration = new Configuration({
 
  app.get('/', async (req,res) => {
    res.status(200).send({
-    message: 'Hello from Codex',
+    message: 'Hello from Sachith',
  })
  });
 
