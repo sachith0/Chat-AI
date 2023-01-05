@@ -47,4 +47,4 @@ bot: response.data.choices[0].text
 }
 })
 
-app.listen(5000, () => console.log('server is running on port http://localhost:5000'));
+app.listen(5000, () => console.log('server is running on port https://my-ai.onrender.com/'));
