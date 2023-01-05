@@ -78,7 +78,7 @@ function chatStripe (isAi, value, uniqueId) {
    
     loader(messageDiv);
    
-    const response = await fetch('https://my-ai.onrender.com',
+    const response = await fetch('https://my-ai.onrender.com/',
     {
       method: 'POST',
       headers: {
